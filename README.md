@@ -1,5 +1,5 @@
 ## Hello world Smart Contract
-Smart contract done with solidty and hardhat display hello world, tests for the smart contract is also included. The Smart contract uses Alchemy's API for RINKEBY Testnet.
+Smart contract done with solidty and hardhat to display hello world, tests for the smart contract is also included. The Smart contract uses Alchemy's API for RINKEBY Testnet.
 
 ### Contract ABI
 ```[{"inputs":[],"name":"hello","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"pure","type":"function"}]```
